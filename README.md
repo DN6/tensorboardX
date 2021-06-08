@@ -100,6 +100,14 @@ writer.close()
 
 <img src="screenshots/Demo.gif">
 
+## Using TensorboardX with Comet
+
+TensorboardX now supports logging directly to [Comet](https://www.comet.ml/site/data-scientists/?utm_campaign=tensorboardx&utm_source=integrations&utm_medium=colab)
+
+<img src="screenshots/comet.gif" width="500" height="300">
+
+Try out the integration in this [Colab Notebook](https://colab.research.google.com/drive/1cTO3tgZ03nuJQ8kOjZhEiwbB-45tV4lm?usp=sharing)
+
 ## Tweaks
 
 To add more ticks for the slider (show more image history), check https://github.com/lanpa/tensorboardX/issues/44 or 
